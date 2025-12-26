@@ -44,7 +44,7 @@ huggingface_cache/
 *.pickle
 *.joblib
 *.bin
-models/
+
 data/
 datasets/
 
