@@ -34,4 +34,4 @@ while True:
     chat_history.append(AIMessage(content=result.content))
     
     # Print the model's response
-    print("AI:", result.content)
+    print("AI:", result.content) 
